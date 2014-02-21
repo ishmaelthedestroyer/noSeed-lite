@@ -1,0 +1,26 @@
+{
+  "name": "noSeed-lite",
+  "version": "0.0.0",
+  "homepage": "http://no-seed.herokuapp.com",
+  "description": "Nomads MEAN seed.",
+  "main": "app.js",
+  "repository": "github.com/ishmaelthedestroyer/noSeed-lite",
+  "keywords": [
+    "seed",
+    "express",
+    "angular",
+    "node"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "author": "ishmaelthedestroyer",
+  "dependencies": {
+    "express": "~3.3.4"
+  },
+  "devDependencies": {
+  }
+}
